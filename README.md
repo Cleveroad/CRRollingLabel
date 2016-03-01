@@ -1,6 +1,8 @@
 ## CRRollingLabel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) <img src="https://www.cleveroad.com/public/comercial/label-ios.svg" height="20"> <a href="https://www.cleveroad.com/?utm_source=github&utm_medium=label&utm_campaign=contacts"><img src="https://www.cleveroad.com/public/comercial/label-cleveroad.svg" height="20"></a>
 
-CRRollingLabel is subclass of UILabel, so it supports all functions of UILabel without any additional configuration, but limited to display only numeric values. 
+CRRollingLabel provides an animated text change, as a scrolling column. CRRollingLabel is subclass of UILabel, so it supports all functions of UILabel without any additional configuration, but limited to display only numeric values. 
+
+<img src="http://i1155.photobucket.com/albums/p541/Nick_Pro/ezgif.com-video-to-gif%201_zps15qjf4hr.gif">
 
 ##Installation
 ####CocoaPods
